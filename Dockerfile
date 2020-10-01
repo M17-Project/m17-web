@@ -1,9 +1,8 @@
 FROM klakegg/hugo:ext
 
-RUN git clone https://git.kc1awv.net/kc1awv/m17-web-dev && \
-    cd m17-web-dev && \
-    hugo
+WORKDIR /data
+COPY . /data
+RUN hugo
 
-FROM nginx
-
-COPY --from=0 /src/m17-web-dev/public /usr/share/nginx/html
+FROM nginx:alpine
+COPY --from=0 /data/public /usr/share/nginx/html
