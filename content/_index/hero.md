@@ -3,11 +3,11 @@ fragment = "hero"
 #disabled = true
 date = "2016-09-07"
 weight = 50
-background = "light" # can influence the text color
+background = "dark" # can influence the text color
 particles = true
 
-title = "Syna Theme"
-subtitle = "Showcase your next project"
+title = "M17 Project"
+subtitle = "Sounds like a rifle, but it's Codec2!"
 
 [header]
   image = "header.jpg"
@@ -18,17 +18,17 @@ subtitle = "Showcase your next project"
   #height = "150px" # optional - will default to image height
 
 [[buttons]]
-  text = "Button"
-  url = "#"
-  color = "info" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
+  text = "Protocol"
+  url = "https://m17-protocol-specification.readthedocs.io/en/latest/"
+  color = "primary" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
-  text = "Download"
-  url = "https://github.com/okkur/syna/releases"
-  color = "primary"
+  text = "Donate"
+  url = "/donate"
+  color = "danger"
 
 [[buttons]]
-  text = "Button"
-  url = "#"
+  text = "Join"
+  url = "/get-involved"
   color = "success"
 +++

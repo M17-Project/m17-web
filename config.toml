@@ -1,7 +1,7 @@
 # Site settings
-baseurl = "/"
+baseurl = "https://new.m17.link"
 languageCode = "en-us"
-title = "Okkur - Syna"
+title = "M17 Project"
 theme = "syna"
 enableGitInfo = true
 version = "0.17.3"
@@ -24,8 +24,8 @@ lastmod = ["lastmod", ":git", "date"]
      unsafe = true
 
 [params]
-  name = "Okkur Labs"
-  description = "Open Source Theme for your next project"
+  name = "M17 Project"
+  description = "M17 - sounds like a rifle, but it's Codec2"
 
   [params.style]
     #background = "secondary"
@@ -72,47 +72,67 @@ lastmod = ["lastmod", ":git", "date"]
 
 [[menu.main]]
   url = "/about"
-  name = "About Us"
+  name = "About M17"
   weight = 20
+
+[[menu.main]]
+  url = "donate-page"
+  name = "Donate"
+  weight = 30
+
+[[menu.main]]
+  url = "/faq"
+  name = "FAQ"
+  weight = 40
+
+[[menu.main]]
+  url = "/team"
+  name = "Team"
+  weight = 50
+
+[[menu.main]]
+  url = "/chat"
+  name = "Chat"
+  weight = 60
 
 [[menu.main]]
   url = "#contact"
   name = "Contact"
-  weight = 30
+  weight = 70
 
 [[menu.footer]]
-  url = "#"
-  name = "Link"
+  url = "/donate-page"
+  name = "Donate"
   weight = 10
 
 [[menu.footer]]
-  url = "#"
-  name = "Long Link"
+  url = "https://m17-protocol-specification.readthedocs.io/en/latest/"
+  name = "M17 Protocol"
+  weight = 20
+
+[[menu.footer]]
+  url = "https://github.com/M17-Project"
+  name = "M17 Github"
   weight = 30
 
 [[menu.footer]]
-  url = "#"
-  name = "Tiny Link"
-  weight = 30
+  url = "/faq"
+  name = "M17 FAQ"
+  weight = 40
 
 [[menu.copyright_footer]]
   url = "/about"
   name = "About Us"
   weight = 10
 
-[[menu.copyright_footer]]
-  url = "#"
-  name = "Another Link"
-  weight = 30
-
 [[menu.footer_social]]
   weight = 20
   name = "facebook"
-  pre = "fab fa-facebook-f"
-  url = "#"
+  pre = "fab fa-github"
+  url = "https://github.com/M17-Project"
 
 [[menu.footer_social]]
   weight = 30
-  name = "linkedin"
-  pre = "fab fa-linkedin-in"
-  url = "#"
+  name = "twitter"
+  pre = "fab fa-twitter"
+  url = "https://twitter.com/m17_project"

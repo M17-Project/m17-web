@@ -6,12 +6,12 @@ weight = 0
 #background = ""
 
 [repo_button]
-  url = "https://github.com/okkur/syna"
-  text = "Star" # default: "Star"
+  url = "https://github.com/M17-Project"
+  text = "Github" # default: "Star"
   icon = "fab fa-github" # defaults: "fab fa-github"
 
 # Branding options
 [asset]
   image = "logo.svg"
-  text = "Syna"
+  text = "M17"
 +++
