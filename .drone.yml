@@ -1,0 +1,13 @@
+kind: pipeline
+name: default
+steps:
+- name: docker  
+  image: plugins/docker
+  settings:
+      username:
+        from_secret: docker-user
+      password:
+        from_secret: docker-password
+      repo: registry.kc1awv.net/m17-web-dev/m17-web-dev
+      registry: registry.kc1awv.net
+      tags: latest
