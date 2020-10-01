@@ -16,4 +16,4 @@ menu_title = "Links"
 
 #### M17 Project
 
-Providing a free alternative to existing closed-mindedness
+"The goal here should be to kick the proprietary protocols off the airwaves, replace DMR, Fusion, D-Star, etc. To do that, it’s not just good enough to be open, it has to be legitimately competitive."
