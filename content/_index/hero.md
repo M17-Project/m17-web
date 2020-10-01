@@ -24,7 +24,7 @@ subtitle = "Sounds like a rifle, but it's Codec2!"
 
 [[buttons]]
   text = "Donate"
-  url = "/donate"
+  url = "/donate-page"
   color = "danger"
 
 [[buttons]]
