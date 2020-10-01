@@ -8,6 +8,7 @@ steps:
         from_secret: docker-user
       password:
         from_secret: docker-password
+      custom_dns: [ 192.168.1.1 ]
       repo: registry.kc1awv.net/m17-web-dev/m17-web-dev
       registry: registry.kc1awv.net
       tags: latest
