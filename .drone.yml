@@ -6,8 +6,10 @@ steps:
   settings:
     homeserver: https://synapse.m17.link
     roomid: raLCsLGKgbbYBxzUtL:m17.link
-    username: matrix-username
-    password: matrix-password
+    username:
+      from_secret: matrix-username
+    password:
+      from_secret: matrix-password
 
 - name: docker  
   image: plugins/docker
