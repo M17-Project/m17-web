@@ -29,3 +29,20 @@ steps:
       repo: registry.kc1awv.net/m17-web-dev/m17-web-dev
       registry: registry.kc1awv.net
       tags: latest
+
+- name: notify-pipeline-end
+  image: plugins/matrix
+  settings:
+    homeserver: https://synapse.m17.link
+    roomid: raLCsLGKgbbYBxzUtL:m17.link
+    username:
+      from_secret: matrix-username
+    password:
+      from_secret: matrix-password
+    template: >
+      {{#if build.pull}}
+        *{{#success build.status}}✔{{ else }}✘{{/success}} {{ uppercasefirst build.status }}*: {{ repo.owner }}/{{ repo.name }} | Pull Request #{{ build.pull }}
+      {{else}}
+        *{{#success build.status}}✔{{ else }}✘{{/success}} {{ uppercasefirst build.status }}: {{ repo.owner }}/{{ repo.name }} - Build #{{ build.number }}* (type: `{{ build.event }}`)
+      {{/if}}
+        Commit: {{ truncate build.commit 8 }}> | Branch: {{ build.branch }} | Author: {{ build.author }} | Duration: {{ since build.created }}
