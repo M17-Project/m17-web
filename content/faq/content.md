@@ -27,7 +27,7 @@ title = "Get Involved!"
 What is M17?
 ------------
 
-* M17 is a truly open, free to use digital radio system. The M17 standard, all schematics, PCB layouts and source code is available to use for free at the [GitHub pages](https://github.com/sp5wwp).
+* M17 is a truly open, free to use digital radio system. The M17 standard, all schematics, PCB layouts and source code is available to use for free at the [GitHub pages](https://github.com/M17-Project).
 
 How long has M17 been worked on?
 --------------------------------
