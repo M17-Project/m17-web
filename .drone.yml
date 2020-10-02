@@ -10,6 +10,13 @@ steps:
       from_secret: matrix-username
     password:
       from_secret: matrix-password
+    template: >
+      {{#if build.pull}}
+        *Build started from PR*: {{ repo.owner }}/{{ repo.name }} | Pull Request #{{ build.pull }}
+      {{else}}
+        *Build started: {{ repo.owner }}/{{ repo.name }} - Build #{{ build.number }}* (type: `{{ build.event }}`)
+      {{/if}}
+        Commit: {{ truncate build.commit 8 }}
 
 - name: docker  
   image: plugins/docker
