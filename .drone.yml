@@ -1,6 +1,14 @@
 kind: pipeline
 name: default
 steps:
+- name: notify-pipeline-start
+  image: plugins/matrix
+  settings:
+    homeserver: https://synapse.m17.link
+    roomid: raLCsLGKgbbYBxzUtL:m17.link
+    username: matrix-username
+    password: matrix-password
+
 - name: docker  
   image: plugins/docker
   settings:
