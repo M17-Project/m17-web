@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://www.m17.link"
+baseurl = "https://m17project.org"
 languageCode = "en-us"
 title = "M17 Project"
 theme = "syna"
