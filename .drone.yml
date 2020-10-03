@@ -1,48 +1,48 @@
 kind: pipeline
 name: default
 steps:
-- name: notify-pipeline-start
-  image: plugins/matrix
-  settings:
-    homeserver: https://synapse.m17.link
-    roomid: raLCsLGKgbbYBxzUtL:m17.link
-    username:
-      from_secret: matrix-username
-    password:
-      from_secret: matrix-password
-    template: >
-      {{#if build.pull}}
-        *Build started from PR*: {{ repo.owner }}/{{ repo.name }} | Pull Request #{{ build.pull }}
-      {{else}}
-        *Build started: {{ repo.owner }}/{{ repo.name }} - Build #{{ build.number }}* (type: `{{ build.event }}`)
-      {{/if}}
-        Commit: {{ truncate build.commit 8 }}
+#- name: notify-pipeline-start
+#  image: plugins/matrix
+#  settings:
+#    homeserver: https://synapse.m17.link
+#    roomid: raLCsLGKgbbYBxzUtL:m17.link
+#    username:
+#      from_secret: matrix-username
+#    password:
+#      from_secret: matrix-password
+#    template: >
+#      {{#if build.pull}}
+#        *Build started from PR*: {{ repo.owner }}/{{ repo.name }} | Pull Request #{{ build.pull }}
+#      {{else}}
+#        *Build started: {{ repo.owner }}/{{ repo.name }} - Build #{{ build.number }}* (type: `{{ build.event }}`)
+#      {{/if}}
+#        Commit: {{ truncate build.commit 8 }}
 
 - name: docker  
   image: plugins/docker
   settings:
       username:
-        from_secret: docker-user
+        from_secret: docker-username
       password:
         from_secret: docker-password
       custom_dns: [ 192.168.1.1 ]
-      repo: registry.kc1awv.net/m17-web-dev/m17-web-dev
-      registry: registry.kc1awv.net
+      repo: registry.m17project.org/m17/m17-web
+      registry: registry.m17project.org
       tags: latest
 
-- name: notify-pipeline-end
-  image: plugins/matrix
-  settings:
-    homeserver: https://synapse.m17.link
-    roomid: raLCsLGKgbbYBxzUtL:m17.link
-    username:
-      from_secret: matrix-username
-    password:
-      from_secret: matrix-password
-    template: >
-      {{#if build.pull}}
-        *{{#success build.status}}✔{{ else }}✘{{/success}} {{ uppercasefirst build.status }}*: {{ repo.owner }}/{{ repo.name }} | Pull Request #{{ build.pull }}
-      {{else}}
-        *{{#success build.status}}✔{{ else }}✘{{/success}} {{ uppercasefirst build.status }}: {{ repo.owner }}/{{ repo.name }} - Build #{{ build.number }}* (type: `{{ build.event }}`)
-      {{/if}}
-        Commit: {{ truncate build.commit 8 }}> | Branch: {{ build.branch }} | Author: {{ build.author }} | Duration: {{ since build.created }}
+#- name: notify-pipeline-end
+#  image: plugins/matrix
+#  settings:
+#    homeserver: https://synapse.m17.link
+#    roomid: raLCsLGKgbbYBxzUtL:m17.link
+#    username:
+#      from_secret: matrix-username
+#    password:
+#      from_secret: matrix-password
+#    template: >
+#      {{#if build.pull}}
+#        *{{#success build.status}}✔{{ else }}✘{{/success}} {{ uppercasefirst build.status }}*: {{ repo.owner }}/{{ repo.name }} | Pull Request #{{ build.pull }}
+#      {{else}}
+#        *{{#success build.status}}✔{{ else }}✘{{/success}} {{ uppercasefirst build.status }}: {{ repo.owner }}/{{ repo.name }} - Build #{{ build.number }}* (type: `{{ build.event }}`)
+#      {{/if}}
+#        Commit: {{ truncate build.commit 8 }}> | Branch: {{ build.branch }} | Author: {{ build.author }} | Duration: {{ since build.created }}
