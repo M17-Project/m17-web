@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "/home/smiller/work/m17-web-dev",
+	"sourceRoot": "/home/smiller/m17-web",
 	"sources": [
 		"themes/syna/assets/styles/index.scss",
 		"themes/syna/assets/styles/fontawesome/fontawesome.scss",
