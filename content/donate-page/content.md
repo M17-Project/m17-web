@@ -23,4 +23,5 @@ title = "Donate to the M17 Project"
 ## Chakphanu K.
 ## Vitaliy S.
 ## Keith A.
-
+## Randy B.
+## Richard W.
