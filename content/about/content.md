@@ -22,5 +22,3 @@ We welcome everyone to join us in our little adventure, you don't have to be an 
 **We would love to have you!**
 
 ---
-
-**Block for a story of how M17 started...**
