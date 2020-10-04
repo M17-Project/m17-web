@@ -606,31 +606,23 @@ html {
     <!-- Theme Code -->
       <script async defer src="/scripts/syna-main.min.4a4e6f6f53a8bfc964a2af963774d43ab002eb5c1b1c18931e04cd89d23b36c9.js"></script>
       <script async defer src="/scripts/syna-content.min.bf537eb5ace369e45e8b4ed41b8d235a65db92236a400ed5659f7a3c41d0f221.js"></script>
-<script type="text/javascript" >
-  var _paq = _paq || [];
+<script type="text/javascript">
+  var _paq = window._paq = window._paq || [];
+   
   _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
-  _paq.push(["setCookieDomain", "m17project.org"]);
-  _paq.push(["setDomains", ["m17project.org"]]);
+  _paq.push(["setCookieDomain", "*.m17project.org"]);
+  _paq.push(["setDomains", ["*.m17project.org","*.www.m17project.org"]]);
   _paq.push(['trackPageView']);
   _paq.push(['enableLinkTracking']);
   (function() {
-    var u="https:\/\/matomo.kc1awv.net/";
-    _paq.push(['setTrackerUrl', u+'piwik.php']);
-    _paq.push(['setSiteId', "2"]);
+    var u="https://matomo.kc1awv.net/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '2']);
     var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.type='text/javascript';
-    g.async=true;
-    g.defer=true;
-    g.src=u+'piwik.js';
-    
-    s.parentNode.insertBefore(g,s);
+    g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
   })();
 </script>
-<noscript>
-  <div>
-    <img src="https://matomo.kc1awv.net/piwik.php?idsite=2" style="border:0;" alt="" />
-  </div>
-</noscript>
+<noscript><p><img src="https://matomo.kc1awv.net/matomo.php?idsite=2&amp;rec=1" style="border:0;" alt="" /></p></noscript>
 
 
   </body>
