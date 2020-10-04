@@ -42,7 +42,7 @@ Why develop M17?
 What is the main difference of M17 to existing digital standards, like DMR?
 ---------------------------------------------------------------------------
 
-* M17 uses Frequency Division Multiple Access (FDMA) instead of Time Division Multiple Access (TDMA). FDMA allows for two simultaneous links to be established on one channel. Please read the M17 Specifications [HERE](https://m17-protocol-specification.readthedocs.io/en/latest/)
+* M17 uses Frequency Division Multiple Access (FDMA) instead of Time Division Multiple Access (TDMA). FDMA in our case, allows for two 6.25kHz simultaneous links to be established on one 12.5kHz channel. Please read the M17 Specifications [HERE](https://m17-protocol-specification.readthedocs.io/en/latest/)
 
 What vocoder is being used for M17?
 -----------------------------------
@@ -52,7 +52,7 @@ What vocoder is being used for M17?
 Why not just implement Codec2 on top of an existing standard?
 -------------------------------------------------------------
 
-* As stated before, there are no open platforms to experiment with regarding digital voice. Current platforms were designed and developed to be a commercial success, instead of a social and hobbyist success.
+* As stated before, there are no open platforms to experiment with regarding digital voice. Current platforms were designed and developed to be a commercial success, instead of a social and hobbyist success. It's not the best idea to have many voice codecs within one standard. It causes incompatibility issues.
 
 What is the encoded speech bitrate?
 -----------------------------------
@@ -62,12 +62,12 @@ What is the encoded speech bitrate?
 Does M17 support encryption?
 ----------------------------
 
-* Yes, support for the Advanced Encryption System (AES) will be added with keys of different length. Encryption may be enabled where it is legal, or disabled completely.
+* **Encryption is disabled by default** Yes, support for the Advanced Encryption System (AES) will be added with keys of different length. Encryption may be enabled where it is legal, **or disabled completely**.
 
 How are users identified?
 -------------------------
 
-* User IDs are generated based on their callsigns. Base40 is used to [encode](https://m17.programradios.com/) the callsign into a 48-bit value. The user's ID can also be translated to a DMR Radio ID equivalent using a lookup $
+* User IDs are generated based on their callsigns. Base40 is used to [encode](https://m17.programradios.com/) the callsign into a 48-bit value. The user's ID can also be translated to a DMR Radio ID equivalent using a lookup table.
 
 Can M17 be used on a DMR radio?
 -------------------------------
@@ -77,7 +77,7 @@ Can M17 be used on a DMR radio?
 Can I send data using M17?
 --------------------------
 
-* Yes, it will be possible to send data packets exclusively, or alongside digital voice streams.
+* Yes, it is possible to send data packets exclusively, or alongside digital voice streams.
 
 Can I link M17 with my DMR repeater?
 ------------------------------------
@@ -87,12 +87,12 @@ Can I link M17 with my DMR repeater?
 What are the radio internals?
 -----------------------------
 
-* The TR-9 radio includes an STM32F7 family microcontroller along with an ADF7021 RF front-end. An RF power amplifier, accelerometer and a GNSS module are also included.
+* The TR-9 radio includes an STM32F7 family microcontroller along with an ADF7021 RF front-end. An RF power amplifier, accelerometer, GNSS module, SD card slot, Kenwood-style connector, and an ESP8266 are also included.
 
 Can I send APRS frames with it?
 -------------------------------
 
-* Most likely, yes since the codec is based on sinusoidal coding principle. But why bother doing that if the data can be sent using FSK instead of a bunch of beeps? Why use APRS if there is no error correction at all?
+* Yes.
 
 Is M17 compatible with other digital voice modes, like DMR?
 -----------------------------------------------------------
@@ -107,4 +107,4 @@ Can I switch an existing digital voice radio to be used with M17?
 How many people are working on M17?
 -----------------------------------
 
-* There are over 100 registered users on the forum. On IRC there is an average of about 25 people.
+* There are over 100 registered users on the forum. On IRC there is an average of about 45 people.

@@ -516,7 +516,7 @@ html {
 </ul>
 <h2 id="what-is-the-main-difference-of-m17-to-existing-digital-standards-like-dmr">What is the main difference of M17 to existing digital standards, like DMR?</h2>
 <ul>
-<li>M17 uses Frequency Division Multiple Access (FDMA) instead of Time Division Multiple Access (TDMA). FDMA allows for two simultaneous links to be established on one channel. Please read the M17 Specifications <a href="https://m17-protocol-specification.readthedocs.io/en/latest/">HERE</a></li>
+<li>M17 uses Frequency Division Multiple Access (FDMA) instead of Time Division Multiple Access (TDMA). FDMA in our case, allows for two 6.25kHz simultaneous links to be established on one 12.5kHz channel. Please read the M17 Specifications <a href="https://m17-protocol-specification.readthedocs.io/en/latest/">HERE</a></li>
 </ul>
 <h2 id="what-vocoder-is-being-used-for-m17">What vocoder is being used for M17?</h2>
 <ul>
@@ -524,7 +524,7 @@ html {
 </ul>
 <h2 id="why-not-just-implement-codec2-on-top-of-an-existing-standard">Why not just implement Codec2 on top of an existing standard?</h2>
 <ul>
-<li>As stated before, there are no open platforms to experiment with regarding digital voice. Current platforms were designed and developed to be a commercial success, instead of a social and hobbyist success.</li>
+<li>As stated before, there are no open platforms to experiment with regarding digital voice. Current platforms were designed and developed to be a commercial success, instead of a social and hobbyist success. It&rsquo;s not the best idea to have many voice codecs within one standard. It causes incompatibility issues.</li>
 </ul>
 <h2 id="what-is-the-encoded-speech-bitrate">What is the encoded speech bitrate?</h2>
 <ul>
@@ -532,11 +532,11 @@ html {
 </ul>
 <h2 id="does-m17-support-encryption">Does M17 support encryption?</h2>
 <ul>
-<li>Yes, support for the Advanced Encryption System (AES) will be added with keys of different length. Encryption may be enabled where it is legal, or disabled completely.</li>
+<li><strong>Encryption is disabled by default</strong> Yes, support for the Advanced Encryption System (AES) will be added with keys of different length. Encryption may be enabled where it is legal, <strong>or disabled completely</strong>.</li>
 </ul>
 <h2 id="how-are-users-identified">How are users identified?</h2>
 <ul>
-<li>User IDs are generated based on their callsigns. Base40 is used to <a href="https://m17.programradios.com/">encode</a> the callsign into a 48-bit value. The user&rsquo;s ID can also be translated to a DMR Radio ID equivalent using a lookup $</li>
+<li>User IDs are generated based on their callsigns. Base40 is used to <a href="https://m17.programradios.com/">encode</a> the callsign into a 48-bit value. The user&rsquo;s ID can also be translated to a DMR Radio ID equivalent using a lookup table.</li>
 </ul>
 <h2 id="can-m17-be-used-on-a-dmr-radio">Can M17 be used on a DMR radio?</h2>
 <ul>
@@ -544,7 +544,7 @@ html {
 </ul>
 <h2 id="can-i-send-data-using-m17">Can I send data using M17?</h2>
 <ul>
-<li>Yes, it will be possible to send data packets exclusively, or alongside digital voice streams.</li>
+<li>Yes, it is possible to send data packets exclusively, or alongside digital voice streams.</li>
 </ul>
 <h2 id="can-i-link-m17-with-my-dmr-repeater">Can I link M17 with my DMR repeater?</h2>
 <ul>
@@ -552,11 +552,11 @@ html {
 </ul>
 <h2 id="what-are-the-radio-internals">What are the radio internals?</h2>
 <ul>
-<li>The TR-9 radio includes an STM32F7 family microcontroller along with an ADF7021 RF front-end. An RF power amplifier, accelerometer and a GNSS module are also included.</li>
+<li>The TR-9 radio includes an STM32F7 family microcontroller along with an ADF7021 RF front-end. An RF power amplifier, accelerometer, GNSS module, SD card slot, Kenwood-style connector, and an ESP8266 are also included.</li>
 </ul>
 <h2 id="can-i-send-aprs-frames-with-it">Can I send APRS frames with it?</h2>
 <ul>
-<li>Most likely, yes since the codec is based on sinusoidal coding principle. But why bother doing that if the data can be sent using FSK instead of a bunch of beeps? Why use APRS if there is no error correction at all?</li>
+<li>Yes.</li>
 </ul>
 <h2 id="is-m17-compatible-with-other-digital-voice-modes-like-dmr">Is M17 compatible with other digital voice modes, like DMR?</h2>
 <ul>
@@ -568,7 +568,7 @@ html {
 </ul>
 <h2 id="how-many-people-are-working-on-m17">How many people are working on M17?</h2>
 <ul>
-<li>There are over 100 registered users on the forum. On IRC there is an average of about 25 people.</li>
+<li>There are over 100 registered users on the forum. On IRC there is an average of about 45 people.</li>
 </ul>
 </div>
     </article>
