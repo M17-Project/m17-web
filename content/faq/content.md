@@ -5,7 +5,7 @@ date = "2019-10-05"
 weight = 100
 background = "light"
 
-title = "Get Involved!"
+title = "Frequently Asked Questions"
 #subtitle = ""
 
 [sidebar]
