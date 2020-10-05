@@ -96,9 +96,14 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 60
 
 [[menu.main]]
+  url = "https://forum.m17project.org"
+  name = "Forums"
+  weight = 70
+
+[[menu.main]]
   url = "#contact"
   name = "Contact"
-  weight = 70
+  weight = 80
 
 [[menu.footer]]
   url = "/donate-page"

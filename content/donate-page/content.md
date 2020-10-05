@@ -25,3 +25,5 @@ title = "Donate to the M17 Project"
 ## Keith A.
 ## Randy B.
 ## Richard W.
+## Craig P.
+## Jeremy C.
