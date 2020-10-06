@@ -1,0 +1,10 @@
+version: '3'
+services:
+  m17hugo:
+    build:
+      context: .
+      dockerfile: Dockerfile.build
+    volumes:
+      - ".:/src"
+    ports:
+      - 1313:1313

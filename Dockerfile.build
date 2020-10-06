@@ -1,0 +1,6 @@
+from klakegg/hugo:0.75.1-alpine
+RUN apk add git
+ENTRYPOINT []
+CMD hugo server -w
+#sudo docker-compose run --service-ports m17hugo /bin/sh
+
