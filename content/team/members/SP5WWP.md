@@ -12,4 +12,4 @@ scope = [
   image = "team/SP5WWP.jpg"
 +++
 
-Bare-metal software developer. Radio amateur ince 2016. Open source and hardware movement enthusiast.
+Bare-metal software developer. Radio amateur since 2016. Open source and hardware movement enthusiast.
