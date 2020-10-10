@@ -1,0 +1,41 @@
+{{- $fragment := .self.Params -}}
+{{- $name := strings.TrimSuffix ".md" (replace .self.Name "/index.md" "") -}}
+{{- $bg := $fragment.background | default "secondary" }}
+<section id="{{ $name }}">
+  <div class="overlay container-fluid
+    {{- printf " bg-%s" $bg -}}
+  ">
+  <div class="container py-5">
+    <div class="row">
+      <div class="col text-center
+        {{- if eq $bg "dark" -}}
+          {{- printf " text-%s" "light" -}}
+        {{- else -}}
+          {{- printf " text-%s" "dark" -}}
+        {{- end -}}
+      ">
+        <h4>M17 Address Translator</h4>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col">
+        <p>Enter your callsign or M17 address into the appropriate field and it will be converted to the opposite format.<br /><br />
+          Because M17 encodes your callsign directly into the protocol, no user database or user registration is required, and all the benefits from DMR's TalkerAlias extension are included natively!
+        </p>
+      </div>
+    </div>
+    <div class="row" id="m17_callsign_translator">
+      <div class="col">
+        <label>Callsign: 
+          <input oninput="m17_xlate_dom(this)" onchange="m17_xlate_dom(this)" placeholder="like W2FBI" type="text" name="callsign" />
+        </label>
+      </div>
+      <div class="col">
+        <label>Address: 
+          <input oninput="m17_xlate_dom(this)" onchange="m17_xlate_dom(this)" placeholder="like 161AE1F or 0x161ae1f" type="text" name="address" />
+        </label>
+      </div>
+    </div>
+  </div>
+</section>
+<script src="calc.js"></script>

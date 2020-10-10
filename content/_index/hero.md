@@ -2,7 +2,7 @@
 fragment = "hero"
 #disabled = true
 date = "2016-09-07"
-weight = 50
+weight = 10
 background = "dark" # can influence the text color
 particles = true
 
@@ -21,6 +21,11 @@ subtitle = "Sounds like a rifle, but it's Codec2!"
   text = "Protocol"
   url = "https://m17-protocol-specification.readthedocs.io/en/latest/"
   color = "primary" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
+
+[[buttons]]
+  text = "Tools"
+  url = "/tools"
+  color = "primary"
 
 [[buttons]]
   text = "Donate"

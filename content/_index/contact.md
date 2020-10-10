@@ -6,7 +6,7 @@ weight = 1100
 #background = "light"
 form_name = "defaultContact"
 
-title = "Contact Us!"
+title = "Contact Us"
 subtitle  = ""
 
 # PostURL can be used with backends such as mailout from caddy

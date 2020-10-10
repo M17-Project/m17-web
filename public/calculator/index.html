@@ -1,4 +1,6 @@
+<!DOCTYPE html>
 <html lang="en-us">
+  
 
 <head>
   <meta name="theme" content="Syna">
@@ -13,23 +15,24 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   <meta name="description" content="M17 - sounds like a rifle, but it&#39;s Codec2">
-  <meta property="og:title" content="404 Page not found" />
-<meta property="og:description" content="M17 - sounds like a rifle, but it&#39;s Codec2" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://m17project.org/404.html" />
-
+  <meta property="og:title" content="M17 Calculator" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://m17project.org/calculator/" />
+<meta property="article:published_time" content="2020-10-10T00:00:00+00:00" />
+<meta property="article:modified_time" content="2020-10-10T00:00:00+00:00" />
 
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="404 Page not found &amp;middot; M17 Project" />
+  <meta name="twitter:title" content="M17 Calculator &amp;middot; M17 Project" />
   <meta name="twitter:description" content="M17 - sounds like a rifle, but it&#39;s Codec2">
-  <meta name="twitter:url" content="https://m17project.org/404.html" />
+  <meta name="twitter:url" content="https://m17project.org/calculator/" />
     <meta property="og:image" content="">
     <meta name="twitter:image" content="">
   <meta name="author" content="M17 Project">
 
   <meta name="generator" content="Hugo 0.76.2" />
 
-  <title>404 Page not found &middot; M17 Project</title>
+  <title>M17 Calculator &middot; M17 Project</title>
 
   <!-- Theme Styles -->
   <style>
@@ -487,6 +490,36 @@ html {
   title="Back to top"
   ><i class="fas fa-angle-up"></i><span class="sr-only">Back to top</span>
 </div>
+<section id="calculator">
+  <div class="overlay container-fluid bg-light">
+  <div class="container py-5">
+    <div class="row">
+      <div class="col text-center text-dark">
+        <h4>M17 Address Translator</h4>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col">
+        <p>Enter your callsign or M17 address into the appropriate field and it will be converted to the opposite format.<br /><br />
+          Because M17 encodes your callsign directly into the protocol, no user database or user registration is required, and all the benefits from DMR's TalkerAlias extension are included natively!
+        </p>
+      </div>
+    </div>
+    <div class="row" id="m17_callsign_translator">
+      <div class="col">
+        <label>Callsign: 
+          <input oninput="m17_xlate_dom(this)" onchange="m17_xlate_dom(this)" placeholder="like W2FBI" type="text" name="callsign" />
+        </label>
+      </div>
+      <div class="col">
+        <label>Address: 
+          <input oninput="m17_xlate_dom(this)" onchange="m17_xlate_dom(this)" placeholder="like 161AE1F or 0x161ae1f" type="text" name="address" />
+        </label>
+      </div>
+    </div>
+  </div>
+</section>
+<script src="calc.js"></script>
 <!-- Footer -->
 <section id="footer" class="fragment ">
     <div class="container-fluid bg-light ">
@@ -568,26 +601,6 @@ html {
   </div>
 </footer>
 <div id="react"></div>
-    <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog" role="document">
-          <div class="modal-content">
-            <div class="modal-header row mx-0">
-              <div class="modal-title col px-0">
-                <h5 class="title text-dark"></h5>
-                <h6 class="subtitle text-secondary"></h6>
-              </div>
-              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span aria-hidden="true">&times;</span>
-              </button>
-            </div>
-            <img src="" alt="" class="img-fluid">
-            <div class="modal-body p-3">
-              <div class="content"></div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
 
     <!-- Theme Code -->
       <script async defer src="/scripts/syna-main.min.4a4e6f6f53a8bfc964a2af963774d43ab002eb5c1b1c18931e04cd89d23b36c9.js"></script>

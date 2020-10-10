@@ -28,7 +28,7 @@ steps:
       custom_dns: [ 192.168.1.1 ]
       repo: registry.m17project.org/m17/m17-web
       registry: registry.m17project.org
-      tags: latest
+      tags: tools
 
 - name: notify-pipeline-end
   image: plugins/matrix
