@@ -105,6 +105,11 @@ lastmod = ["lastmod", ":git", "date"]
   name = "Contact"
   weight = 80
 
+[[menu.main]]
+  url = "/reflector"
+  name = "Reflector"
+  weight = 90
+
 [[menu.footer]]
   url = "/donate-page"
   name = "Donate"
