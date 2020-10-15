@@ -2,23 +2,27 @@
 {{- $name := strings.TrimSuffix ".md" (replace .self.Name "/index.md" "") -}}
 {{- $bg := $fragment.background | default "secondary" }}
 <section id="{{ $name }}">
-  <div class="overlay container-fluid
-    {{- printf " bg-%s" $bg -}}
-  ">
-  <div class="container-fluid py-5">
-    <div class="row">
-      <div class="col text-center
-        {{- if eq $bg "dark" -}}
-          {{- printf " text-%s" "light" -}}
-        {{- else -}}
-          {{- printf " text-%s" "dark" -}}
-        {{- end -}}
-      ">
-        <h4>M17-USA Reflector</h4>
+  <div class="container-fluid bg-light overlay">
+    <div class="container-fluid py-5 px-5 overlay">
+      <div class="row">
+        <div class="content-sidebar col-md-2 pb-4 px-md-0 order-0">
+          <div class="sticky-top pt-3">
+            <div class="content-sidebar-title col-12 px-0 text-body">
+              <h3 class="sidebar-title text-center">Reflectors</h3>
+            </div>
+            <div class="content-sidebar-body col-12 px-0 text-left text-body">
+              <p><a href="https://m17-usa.openquad.net/index.php" target="reflector">M17-USA</a></p>
+              <p><a href="https://ref.m17.link" target="reflector">M17-M17</a></p>
+            </div>
+          </div>
+        </div>
+        <article class="col-md-10">
+          <div class="content-body col-12 content px-0 text-body">
+              <p class="text-center">Choose a reflector on the left to see its dashboard.</p>
+              <iframe name="reflector" height="800px" width="100%" frameBorder="0" src="about:blank">Click on a Reflector in the list to the left!</iframe>
+          </div>
+        </article>
       </div>
-    </div>
-    <div class="row justify-content-center">
-        <iframe height="700px" width="1728px" src="https://m17-usa.openquad.net/index.php" title="M17-USA Reflector"></iframe>
     </div>
   </div>
 </section>
