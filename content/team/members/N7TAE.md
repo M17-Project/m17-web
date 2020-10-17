@@ -1,0 +1,16 @@
++++
+title = "N7TAE Tom"
+weight = 36
+date = "2020-10-17"
+
+position = "Software Development/Networking"
+lives_in = "[United States](https://www.google.com/maps/place/United+States/)"
+scope = [
+]
+
+[asset]
+  image = "team/N7TAE.jpg"
++++
+
+Retired Physical Chemist. Now a radio amateur and open source software guy
+interested in digital comms.
