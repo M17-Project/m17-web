@@ -3,7 +3,7 @@ title = "W2FBI Mike"
 weight = 36
 date = "2020-08-01"
 
-position = "Software Prototyping/Networking"
+position = "Software Prototyping/Development"
 lives_in = "[United States](https://www.google.com/maps/place/United+States/)"
 scope = [
 ]
