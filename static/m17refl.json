@@ -19,6 +19,15 @@
             }
         },
         {
+            "M17-KP4": {
+                "URL": "https://kp4ca-m17.ddns.net/",
+                "IPV4": "149.28.236.18",
+                "IPV6": null,
+                "Sponsor": "KP4CA",
+                "Country": "Puerto Rico"
+            }
+        },
+        {
             "M17-M17": {
                 "URL": "https://refl.m17.link/",
                 "IPV4": "51.81.119.111",
