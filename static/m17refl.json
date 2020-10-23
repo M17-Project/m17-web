@@ -1,0 +1,58 @@
+{
+    "m17refl": [
+        {
+            "M17-DEU": {
+                "URL": "https://m17-deu.xreflector.net/",
+                "IPV4": "194.59.205.228",
+                "IPV6": null,
+                "Sponsor": "DG9FFM",
+                "Country": "Germany"
+            }
+        },
+        {
+            "M17-M17": {
+                "URL": "https://refl.m17.link/",
+                "IPV4": "51.81.119.111",
+                "IPV6": "2604:2dc0:100:23a6::1212",
+                "Sponsor": "M17 Project",
+                "Country": "United States"
+            }
+        },
+        {
+            "M17-POL": {
+                "URL": "https://m17.hblink.network/",
+                "IPV4": "77.55.209.188",
+                "IPV6": null,
+                "Sponsor": "SP7LAK",
+                "Country": "Poland"
+            }
+        },
+        {
+            "M17-POR": {
+                "URL": "https://m17.hamradio.pt/",
+                "IPV4": "80.211.15.21",
+                "IPV6": null,
+                "Sponsor": "CT7AGI",
+                "Country": "Portugal"
+            }
+        },
+        {
+            "M17-SPA": {
+                "URL": "https://hblinkspain.duckdns.org/mrefd/",
+                "IPV4": "85.255.8.71",
+                "IPV6": null,
+                "Sponsor": "EA5GVK",
+                "Country": "Spain"
+            }
+        },
+        {
+            "M17-USA": {
+                "URL": "https://m17-usa.openquad.net/",
+                "IPV4": "3.138.122.152",
+                "IPV6": "2600:1f16:d6f:600:20eb:5765:b94c:aebb",
+                "Sponsor": "OpenQuad",
+                "Country": "United States"
+            }
+        }
+    ]
+}
