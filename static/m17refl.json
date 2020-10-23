@@ -1,6 +1,15 @@
 {
     "m17refl": [
         {
+            "M17-AUT": {
+                "URL": "https://m17-aut.xreflector.net/",
+                "IPV4": "195.25.215.5",
+                "IPV6": null,
+                "Sponsor": "OE1KBC",
+                "Country": "Austria"                
+            }
+        },
+        {
             "M17-DEU": {
                 "URL": "https://m17-deu.xreflector.net/",
                 "IPV4": "194.59.205.228",
