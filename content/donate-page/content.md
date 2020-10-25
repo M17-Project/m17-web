@@ -16,7 +16,7 @@ title = "Donate to the M17 Project"
 | | | | | |
 |-|-|-|-|-|
 |Michael M.|[HVDN.org](https://hvdn.org)| | | |
-|Carl W.| | | | |
+|Carl W.|David W.| | | |
 |John R.| | | | |
 |Wesley E.| | | | |
 |Jeffrey B.| | | | |
