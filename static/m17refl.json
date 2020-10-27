@@ -19,6 +19,15 @@
             }
         },
         {
+            "M17-ARG": {
+                "URL": "https://m17arg.ddns.net",
+                "IPV4": "152.171.243.8",
+                "IPV6": null,
+                "Sponsor": "LU8ANB Argentina Multiprotocolo",
+                "Country": "Argentina"
+            }
+        },
+        {
             "M17-AUT": {
                 "URL": "https://m17-aut.xreflector.net/",
                 "IPV4": "195.25.215.5",
@@ -91,7 +100,7 @@
             }
         },
         {
-            "M17-SPA": {
+            "M17-SPA ": {
                 "URL": "https://hblinkspain.duckdns.org/mrefd/",
                 "IPV4": "85.255.8.71",
                 "IPV6": null,
