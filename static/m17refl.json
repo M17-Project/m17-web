@@ -91,6 +91,15 @@
             }
         },
         {
+            "M17-SPA": {
+                "URL": "https://hblinkspain.duckdns.org/mrefd/",
+                "IPV4": "85.255.8.71",
+                "IPV6": null,
+                "Sponsor": "EA5GVK",
+                "Country": "Spain"
+            }
+        },
+        {
             "M17-USA": {
                 "URL": "https://m17-usa.openquad.net/",
                 "IPV4": "3.138.122.152",
