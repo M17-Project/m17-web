@@ -100,11 +100,20 @@
             }
         },
         {
-            "M17-SPA ": {
+            "M17-SPA 1": {
                 "URL": "https://hblinkspain.duckdns.org/mrefd/",
                 "IPV4": "85.255.8.71",
                 "IPV6": null,
                 "Sponsor": "EA5GVK",
+                "Country": "Spain"
+            }
+        },
+        {
+            "M17-SPA 2": {
+                "URL": "https://m17spa.xreflector.es/",
+                "IPV4": "5.249.148.156",
+                "IPV6": null,
+                "Sponsor": "EA7IYR",
                 "Country": "Spain"
             }
         },
