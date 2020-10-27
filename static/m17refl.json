@@ -1,6 +1,24 @@
 {
     "m17refl": [
         {
+            "M17-214": {
+                "URL": "https://214.m17.es/",
+                "IPV4": "157.52.252.143",
+                "IPV6": null,
+                "Sponsor": "Digital Sustrai",
+                "Country": "Spain"
+            }
+        },
+        {
+            "M17-224": {
+                "URL": "https://eamaster.xreflector.es/m17/",
+                "IPV4": "94.177.189.17",
+                "IPV6": null,
+                "Sponsor": "DMRPlus Spain",
+                "Country": "Spain"
+            }
+        },
+        {
             "M17-AUT": {
                 "URL": "https://m17-aut.xreflector.net/",
                 "IPV4": "195.25.215.5",
@@ -19,9 +37,18 @@
             }
         },
         {
+            "M17-EA7": {
+                "URL": "https://rcveleta.xreflector.es/",
+                "IPV4": "207.180.252.141",
+                "IPV6": null,
+                "Sponsor": "Radio Club Veleta",
+                "Country": "Spain"
+            }
+        },
+        {
             "M17-KP4": {
                 "URL": "https://kp4ca-m17.ddns.net/",
-                "IPV4": "149.28.236.18",
+                "IPV4": "45.76.8.78",
                 "IPV6": null,
                 "Sponsor": "KP4CA",
                 "Country": "Puerto Rico"
@@ -55,11 +82,11 @@
             }
         },
         {
-            "M17-SPA": {
-                "URL": "https://hblinkspain.duckdns.org/mrefd/",
-                "IPV4": "85.255.8.71",
+            "M17-SAL": {
+                "URL": "https://m17sal.m17.es/",
+                "IPV4": "31.14.139.112",
                 "IPV6": null,
-                "Sponsor": "EA5GVK",
+                "Sponsor": "URE Salamanca",
                 "Country": "Spain"
             }
         },
