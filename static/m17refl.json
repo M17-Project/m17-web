@@ -136,6 +136,15 @@
             }
         },
         {
+            "M17-URG": {
+                "URL": "https://m17-uruguay.ddns.net/m17/",
+                "IPV4": "201.217.131.108",
+                "IPV6": null,
+                "Sponsor": "Uruguay Link",
+                "Country": "Uruguay"
+            }
+        },
+        {
             "M17-USA": {
                 "URL": "https://m17-usa.openquad.net/",
                 "IPV4": "3.138.122.152",
