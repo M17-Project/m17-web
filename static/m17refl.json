@@ -73,6 +73,15 @@
             }
         },
         {
+            "M17-LAT": {
+                "URL": "https://latinos.m17.es/",
+                "IPV4": "134.73.55.72",
+                "IPV6": null,
+                "Sponsor": "Entrelaces Latinos",
+                "Country": "United States"
+            }
+        },
+        {
             "M17-M17": {
                 "URL": "https://refl.m17.link/",
                 "IPV4": "51.81.119.111",
