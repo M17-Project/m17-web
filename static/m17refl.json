@@ -64,6 +64,15 @@
             }
         },
         {
+            "M17-GAX": {
+                "URL": "https://ea4gax.es/M17",
+                "IPV4": "51.83.78.210",
+                "IPV6": null,
+                "Sponsor": "EA4GAX",
+                "Country": "Spain"
+            }
+        },
+        {
             "M17-ITA": {
                 "URL": "https://m17ita.hblink.it/",
                 "IPV4": "80.211.190.216",
