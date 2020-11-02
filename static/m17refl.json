@@ -74,10 +74,10 @@
         },
         {
             "M17-ESP": {
-                "URL": "https://tst.m17.es/m17",
-                "IPV4": "92.57.47.187",
+                "URL": "https://m17spa.xreflector.es/",
+                "IPV4": "5.249.148.156",
                 "IPV6": null,
-                "Sponsor": "x-Net Spain",
+                "Sponsor": "EA7IYR",
                 "Country": "Spain"
             }
         },
@@ -181,20 +181,11 @@
             }
         },
         {
-            "M17-SPA 1": {
+            "M17-SPA": {
                 "URL": "https://hblinkspain.duckdns.org/mrefd/",
                 "IPV4": "85.255.8.71",
                 "IPV6": null,
                 "Sponsor": "EA5GVK",
-                "Country": "Spain"
-            }
-        },
-        {
-            "M17-SPA 2": {
-                "URL": "https://m17spa.xreflector.es/",
-                "IPV4": "5.249.148.156",
-                "IPV6": null,
-                "Sponsor": "EA7IYR",
                 "Country": "Spain"
             }
         },
