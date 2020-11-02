@@ -1,6 +1,15 @@
 {
     "m17refl": [
         {
+            "M17-190": {
+                "URL": "https://m17.argentina-room.dns-cloud.net/",
+                "IPV4": "190.194.12.53",
+                "IPV6": null,
+                "Sponsor": "Argentina Room",
+                "Country": "Argentina"
+            }
+        },
+        {
             "M17-214": {
                 "URL": "https://214.m17.es/",
                 "IPV4": "157.52.252.143",
@@ -39,7 +48,7 @@
         {
             "M17-BEL": {
                 "URL": "https://on0lg.no-ip.org/m17bel/",
-                "IPV4": "91.134.128.85",
+                "IPV4": "51.68.226.67",
                 "IPV6": null,
                 "Sponsor": "UBA",
                 "Country": "Belgium"
@@ -64,6 +73,15 @@
             }
         },
         {
+            "M17-ESP": {
+                "URL": "https://tst.m17.es/m17",
+                "IPV4": "92.57.47.187",
+                "IPV6": null,
+                "Sponsor": "x-Net Spain",
+                "Country": "Spain"
+            }
+        },
+        {
             "M17-GAX": {
                 "URL": "https://ea4gax.es/M17",
                 "IPV4": "51.83.78.210",
@@ -73,12 +91,30 @@
             }
         },
         {
+            "M17-GBR": {
+                "URL": "https://www.roip.network/m17/",
+                "IPV4": "144.91.99.196",
+                "IPV6": null,
+                "Sponsor": "RoIP Network",
+                "Country": "Great Britan"
+            }
+        },
+        {
             "M17-ITA": {
                 "URL": "https://m17ita.hblink.it/",
                 "IPV4": "80.211.190.216",
                 "IPV6": null,
                 "Sponsor": "IV3JDV",
                 "Country": "Italy"
+            }
+        },
+        {
+            "M17-KOR": {
+                "URL": "https://m17-kor.dvham.com/",
+                "IPV4": "222.110.59.176",
+                "IPV6": null,
+                "Sponsor": "DMR KOREA",
+                "Country": "Korea"
             }
         },
         {
@@ -106,6 +142,15 @@
                 "IPV6": "2604:2dc0:100:23a6::1212",
                 "Sponsor": "M17 Project",
                 "Country": "United States"
+            }
+        },
+        {
+            "M17-NOR": {
+                "URL": "https://m17.la2k.no/",
+                "IPV4": "185.35.185.100",
+                "IPV6": null,
+                "Sponsor": "LA2K",
+                "Country": "Norway"
             }
         },
         {
