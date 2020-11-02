@@ -21,7 +21,7 @@ title = "Donate to the M17 Project"
 |Wesley E.| Paul P. | | | |
 |Jeffrey B.| Jose L. P. | | | |
 |Chakphanu K.| Walter H. | | | |
-|Vitaliy S.| | | | |
+|Vitaliy S.| Michele M. | | | |
 |Keith A.| | | | |
 |Randy B.| | | | |
 |Richard W.| | | | |
