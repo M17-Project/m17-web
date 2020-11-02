@@ -3,8 +3,8 @@ fragment = "item"
 #disabled = false
 date = "2017-10-04"
 weight = 20
-background = "light"
-align = "left"
+background = "dark"
+align = "right"
 
 title = "M17 Callsign Calculator"
 #subtitle = ""

@@ -91,24 +91,19 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 50
 
 [[menu.main]]
-  url = "/chat"
-  name = "Chat"
+  url = "https://forum.m17project.org"
+  name = "Forums"
   weight = 60
 
 [[menu.main]]
-  url = "https://forum.m17project.org"
-  name = "Forums"
+  url = "/contact"
+  name = "Chat & Contact"
   weight = 70
-
-[[menu.main]]
-  url = "#contact"
-  name = "Contact"
-  weight = 80
 
 [[menu.main]]
   url = "/reflector"
   name = "Reflectors"
-  weight = 90
+  weight = 80
 
 [[menu.footer]]
   url = "/donate-page"
@@ -130,6 +125,11 @@ lastmod = ["lastmod", ":git", "date"]
   name = "M17 FAQ"
   weight = 40
 
+[[menu.footer]]
+  url = "/contact"
+  name = "Contact"
+  weight = 50
+
 [[menu.copyright_footer]]
   url = "/about"
   name = "About Us"
@@ -137,12 +137,24 @@ lastmod = ["lastmod", ":git", "date"]
 
 [[menu.footer_social]]
   weight = 20
-  name = "facebook"
+  name = "github"
   pre = "fab fa-github"
   url = "https://github.com/M17-Project"
 
 [[menu.footer_social]]
   weight = 30
+  name = "irc"
+  pre = "fas fa-hashtag"
+  url = "https://m17project.org/irc"
+
+[[menu.footer_social]]
+  weight = 40
+  name = "discord"
+  pre = "fab fa-discord"
+  url = "https://discord.gg/kFSJFkZ8JD"
+
+[[menu.footer_social]]
+  weight = 50
   name = "twitter"
   pre = "fab fa-twitter"
   url = "https://twitter.com/m17_project"
