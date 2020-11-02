@@ -33,6 +33,11 @@ subtitle = "Sounds like a rifle, but it's Codec2!"
   color = "danger"
 
 [[buttons]]
+  text = "Contact"
+  url = "/contact"
+  color = "primary"
+
+[[buttons]]
   text = "Join"
   url = "/get-involved"
   color = "success"
