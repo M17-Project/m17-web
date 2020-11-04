@@ -154,6 +154,15 @@
             }
         },
         {
+            "M17-PLG": {
+                "URL": "https://xrf245.pennlinkgroup.com/mrefd/",
+                "IPV4": "54.85.206.3",
+                "IPV6": null,
+                "Sponsor": "Penn Link Group",
+                "Country": "United States"
+            }
+        },
+        {
             "M17-POL": {
                 "URL": "https://m17.hblink.network/",
                 "IPV4": "77.55.209.188",
