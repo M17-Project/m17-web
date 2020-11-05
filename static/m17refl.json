@@ -1,6 +1,15 @@
 {
     "m17refl": [
         {
+            "M17-033": {
+                "URL": "https://m17-033.dyndns.org/",
+                "IPV4": "46.226.178.84",
+                "IPV6": null,
+                "Sponsor": "IW5EDX",
+                "Country": "Italy"
+            }
+        },
+        {
             "M17-190": {
                 "URL": "https://m17.argentina-room.dns-cloud.net/",
                 "IPV4": "190.194.12.53",
@@ -64,6 +73,15 @@
             }
         },
         {
+            "M17-EA1": {
+                "URL": "https://eadistrito1.m17.es/m17/",
+                "IPV4": "80.211.29.226",
+                "IPV6": null,
+                "Sponsor": "DMRPlus EA1",
+                "Country": "Spain"
+            }
+        },
+        {
             "M17-EA7": {
                 "URL": "https://rcveleta.xreflector.es/",
                 "IPV4": "207.180.252.141",
@@ -105,6 +123,15 @@
                 "IPV4": "80.211.190.216",
                 "IPV6": null,
                 "Sponsor": "IV3JDV",
+                "Country": "Italy"
+            }
+        },
+        {
+            "M17-ITD": {
+                "URL": "https://m17.digitalham.it",
+                "IPV4": "188.213.168.69",
+                "IPV6": null,
+                "Sponsor": "IU7MNA",
                 "Country": "Italy"
             }
         },
