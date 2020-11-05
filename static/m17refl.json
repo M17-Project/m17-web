@@ -5,6 +5,7 @@
                 "URL": "https://m17-033.dyndns.org/",
                 "IPV4": "46.226.178.84",
                 "IPV6": null,
+                "Port": 17000,
                 "Sponsor": "IW5EDX",
                 "Country": "Italy"
             }
@@ -14,6 +15,7 @@
                 "URL": "https://m17.argentina-room.dns-cloud.net/",
                 "IPV4": "190.194.12.53",
                 "IPV6": null,
+                "Port": 17000,
                 "Sponsor": "Argentina Room",
                 "Country": "Argentina"
             }
@@ -23,6 +25,7 @@
                 "URL": "https://214.m17.es/",
                 "IPV4": "157.52.252.143",
                 "IPV6": null,
+                "Port": 17000,
                 "Sponsor": "Digital Sustrai",
                 "Country": "Spain"
             }
@@ -32,6 +35,7 @@
                 "URL": "https://eamaster.xreflector.es/m17/",
                 "IPV4": "94.177.189.17",
                 "IPV6": null,
+                "Port": 17000,
                 "Sponsor": "DMRPlus Spain",
                 "Country": "Spain"
             }
@@ -41,6 +45,7 @@
                 "URL": "https://m17arg.ddns.net",
                 "IPV4": "152.171.243.8",
                 "IPV6": null,
+                "Port": 17000,
                 "Sponsor": "LU8ANB Argentina Multiprotocolo",
                 "Country": "Argentina"
             }
@@ -50,6 +55,7 @@
                 "URL": "https://m17-aut.xreflector.net/",
                 "IPV4": "195.25.215.5",
                 "IPV6": null,
+                "Port": 17000,
                 "Sponsor": "OE1KBC",
                 "Country": "Austria"
             }
@@ -59,8 +65,19 @@
                 "URL": "https://on0lg.no-ip.org/m17bel/",
                 "IPV4": "51.68.226.67",
                 "IPV6": null,
+                "Port": 17000,
                 "Sponsor": "UBA",
                 "Country": "Belgium"
+            }
+        },
+        {
+            "M17-BRO": {
+                "URL": "https://m17-bro.dudetronics.com/",
+                "IPV4": "68.37.44.22",
+                "IPV6": null,
+                "Port": 17000,
+                "Sponsor": "AD8DP",
+                "Country": "United States"
             }
         },
         {
@@ -68,6 +85,7 @@
                 "URL": "https://m17-deu.xreflector.net/",
                 "IPV4": "194.59.205.228",
                 "IPV6": null,
+                "Port": 17000,
                 "Sponsor": "DG9FFM",
                 "Country": "Germany"
             }
@@ -77,6 +95,7 @@
                 "URL": "https://eadistrito1.m17.es/m17/",
                 "IPV4": "80.211.29.226",
                 "IPV6": null,
+                "Port": 17000,
                 "Sponsor": "DMRPlus EA1",
                 "Country": "Spain"
             }
@@ -86,6 +105,7 @@
                 "URL": "https://rcveleta.xreflector.es/",
                 "IPV4": "207.180.252.141",
                 "IPV6": null,
+                "Port": 17000,
                 "Sponsor": "Radio Club Veleta",
                 "Country": "Spain"
             }
@@ -95,6 +115,7 @@
                 "URL": "https://m17spa.xreflector.es/",
                 "IPV4": "5.249.148.156",
                 "IPV6": null,
+                "Port": 17000,
                 "Sponsor": "EA7IYR",
                 "Country": "Spain"
             }
@@ -104,6 +125,7 @@
                 "URL": "https://ea4gax.es/M17",
                 "IPV4": "51.83.78.210",
                 "IPV6": null,
+                "Port": 17000,
                 "Sponsor": "EA4GAX",
                 "Country": "Spain"
             }
@@ -113,6 +135,7 @@
                 "URL": "https://www.roip.network/m17/",
                 "IPV4": "144.91.99.196",
                 "IPV6": null,
+                "Port": 17000,
                 "Sponsor": "RoIP Network",
                 "Country": "Great Britan"
             }
@@ -122,6 +145,7 @@
                 "URL": "https://m17ita.hblink.it/",
                 "IPV4": "80.211.190.216",
                 "IPV6": null,
+                "Port": 17000,
                 "Sponsor": "IV3JDV",
                 "Country": "Italy"
             }
@@ -131,6 +155,7 @@
                 "URL": "https://m17.digitalham.it",
                 "IPV4": "188.213.168.69",
                 "IPV6": null,
+                "Port": 17000,
                 "Sponsor": "IU7MNA",
                 "Country": "Italy"
             }
@@ -140,6 +165,7 @@
                 "URL": "https://m17-kor.dvham.com/",
                 "IPV4": "222.110.59.176",
                 "IPV6": null,
+                "Port": 17000,
                 "Sponsor": "DMR KOREA",
                 "Country": "Korea"
             }
@@ -149,6 +175,7 @@
                 "URL": "https://kp4ca-m17.ddns.net/",
                 "IPV4": "45.76.8.78",
                 "IPV6": null,
+                "Port": 17000,
                 "Sponsor": "KP4CA",
                 "Country": "Puerto Rico"
             }
@@ -158,6 +185,7 @@
                 "URL": "https://latinos.m17.es/",
                 "IPV4": "134.73.55.72",
                 "IPV6": null,
+                "Port": 17000,
                 "Sponsor": "Entrelaces Latinos",
                 "Country": "United States"
             }
@@ -167,6 +195,7 @@
                 "URL": "https://refl.m17.link/",
                 "IPV4": "51.81.119.111",
                 "IPV6": "2604:2dc0:100:23a6::1212",
+                "Port": 17000,
                 "Sponsor": "M17 Project",
                 "Country": "United States"
             }
@@ -176,6 +205,7 @@
                 "URL": "https://m17.la2k.no/",
                 "IPV4": "185.35.185.100",
                 "IPV6": null,
+                "Port": 17000,
                 "Sponsor": "LA2K",
                 "Country": "Norway"
             }
@@ -185,6 +215,7 @@
                 "URL": "https://xrf245.pennlinkgroup.com/mrefd/",
                 "IPV4": "54.85.206.3",
                 "IPV6": null,
+                "Port": 17000,
                 "Sponsor": "Penn Link Group",
                 "Country": "United States"
             }
@@ -194,6 +225,7 @@
                 "URL": "https://m17.hblink.network/",
                 "IPV4": "77.55.209.188",
                 "IPV6": null,
+                "Port": 17000,
                 "Sponsor": "SP7LAK",
                 "Country": "Poland"
             }
@@ -203,6 +235,7 @@
                 "URL": "https://m17.hamradio.pt/",
                 "IPV4": "80.211.15.21",
                 "IPV6": null,
+                "Port": 17000,
                 "Sponsor": "CT7AGI",
                 "Country": "Portugal"
             }
@@ -212,6 +245,7 @@
                 "URL": "https://m17sal.m17.es/",
                 "IPV4": "31.14.139.112",
                 "IPV6": null,
+                "Port": 17000,
                 "Sponsor": "URE Salamanca",
                 "Country": "Spain"
             }
@@ -221,6 +255,7 @@
                 "URL": "https://hblinkspain.duckdns.org/mrefd/",
                 "IPV4": "85.255.8.71",
                 "IPV6": null,
+                "Port": 17000,
                 "Sponsor": "EA5GVK",
                 "Country": "Spain"
             }
@@ -230,6 +265,7 @@
                 "URL": "https://m17-uruguay.ddns.net/m17/",
                 "IPV4": "201.217.131.108",
                 "IPV6": null,
+                "Port": 17000,
                 "Sponsor": "Uruguay Link",
                 "Country": "Uruguay"
             }
@@ -239,6 +275,7 @@
                 "URL": "https://m17-usa.openquad.net/",
                 "IPV4": "3.138.122.152",
                 "IPV6": "2600:1f16:d6f:600:20eb:5765:b94c:aebb",
+                "Port": 17000,
                 "Sponsor": "Openquad",
                 "Country": "United States"
             }
