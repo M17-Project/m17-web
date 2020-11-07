@@ -31,6 +31,16 @@
             }
         },
         {
+            "M17-222": {
+                "URL": "https://m17-222.iu0krr.it/M17-222/",
+                "IPV4": "80.211.107.181",
+                "IPV6": null,
+                "Port": 17000,
+                "Sponsor": "RedNet IU0KRR",
+                "Country": "Italy"
+            }
+        },
+        {
             "M17-224": {
                 "URL": "https://eamaster.xreflector.es/m17/",
                 "IPV4": "94.177.189.17",
