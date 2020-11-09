@@ -271,6 +271,16 @@
             }
         },
         {
+            "M17-THA": {
+                "URL": "https://m17.dprns.com/",
+                "IPV4": "203.150.19.23",
+                "IPV6": null,
+                "Port": 17000,
+                "Sponsor": "HS5TQA",
+                "Country": "Thailand"
+            }
+        },
+        {
             "M17-URG": {
                 "URL": "https://m17-uruguay.ddns.net/m17/",
                 "IPV4": "201.217.131.108",
