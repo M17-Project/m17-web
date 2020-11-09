@@ -53,7 +53,7 @@
         {
             "M17-ARG": {
                 "URL": "https://m17arg.ddns.net",
-                "IPV4": "152.171.243.8",
+                "IPV4": "152.170.70.57",
                 "IPV6": null,
                 "Port": 17000,
                 "Sponsor": "LU8ANB Argentina Multiprotocolo",
@@ -221,6 +221,16 @@
             }
         },
         {
+            "M17-LOM": {
+                "URL": "https://m17-lom.myddns.me:24033/",
+                "IPV4": "82.60.24.178",
+                "IPV6": null,
+                "Port": 17000,
+                "Sponsor": "HBLink Italia",
+                "Country": "Italy"
+            }
+        },
+        {
             "M17-M17": {
                 "URL": "https://refl.m17.link/",
                 "IPV4": "51.81.119.111",
@@ -318,6 +328,16 @@
                 "Port": 17000,
                 "Sponsor": "Openquad",
                 "Country": "United States"
+            }
+        },
+        {
+            "M17-ZO9": {
+                "URL": "https://m17zona9.duckdns.org/m17/",
+                "IPV4": "198.245.55.177",
+                "IPV6": null,
+                "Port": 17000,
+                "Sponsor": "IT Zonanove",
+                "Country": "Italy"
             }
         }
     ]
