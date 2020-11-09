@@ -111,6 +111,26 @@
             }
         },
         {
+            "M17-EA2": {
+                "URL": "https://ea2bkh.m17.es/m17/",
+                "IPV4": "104.148.41.57",
+                "IPV6": null,
+                "Port": 17000,
+                "Sponsor": "ARSA",
+                "Country": "Spain"
+            }
+        },
+        {
+            "M17-EA8": {
+                "URL": "https://ea8ee.m17.es/m17/",
+                "IPV4": "164.132.96.157",
+                "IPV6": null,
+                "Port": 17000,
+                "Sponsor": "BM Spain",
+                "Country": "Spain"
+            }
+        },
+        {
             "M17-EA7": {
                 "URL": "https://rcveleta.xreflector.es/",
                 "IPV4": "207.180.252.141",
