@@ -131,6 +131,16 @@
             }
         },
         {
+            "M17-EA3": {
+                "URL": "https://ea2bkh.m17.es/m17/",
+                "IPV4": "62.171.178.202",
+                "IPV6": null,
+                "Port": 17000,
+                "Sponsor": "ADER",
+                "Country": "Spain"
+            }
+        },
+        {
             "M17-EA4": {
                 "URL": "https://ea4rcr.m17.es/m17/",
                 "IPV4": "212.237.0.67",
