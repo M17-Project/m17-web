@@ -91,6 +91,16 @@
             }
         },
         {
+            "M17-CAD": {
+                "URL": "https://castellar.m17.es/m17/",
+                "IPV4": "80.211.226.37",
+                "IPV6": null,
+                "Port": 17000,
+                "Sponsor": "RC Castellar",
+                "Country": "Spain"
+            }
+        },
+        {
             "M17-DEU": {
                 "URL": "https://m17-deu.xreflector.net/",
                 "IPV4": "194.59.205.228",
@@ -117,6 +127,16 @@
                 "IPV6": null,
                 "Port": 17000,
                 "Sponsor": "ARSA",
+                "Country": "Spain"
+            }
+        },
+        {
+            "M17-EA4": {
+                "URL": "https://ea4rcr.m17.es/m17/",
+                "IPV4": "212.237.0.67",
+                "IPV6": null,
+                "Port": 17000,
+                "Sponsor": "REM ESP",
                 "Country": "Spain"
             }
         },
@@ -332,7 +352,7 @@
         },
         {
             "M17-ZO9": {
-                "URL": "https://m17zona9.duckdns.org/m17/",
+                "URL": "https://m17zona9.duckdns.org/",
                 "IPV4": "198.245.55.177",
                 "IPV6": null,
                 "Port": 17000,
