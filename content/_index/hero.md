@@ -7,7 +7,7 @@ background = "dark" # can influence the text color
 particles = true
 
 title = "M17 Project"
-subtitle = "Sounds like a rifle, but it's Codec2!"
+subtitle = "Bleeding edge Ham Radio!"
 
 [header]
   image = "header.jpg"
