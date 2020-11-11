@@ -321,6 +321,16 @@
             }
         },
         {
+            "M17-SKY": {
+                "URL": "https://m17.skyhublink.com/",
+                "IPV4": "65.114.195.171",
+                "IPV6": null,
+                "Port": 17000,
+                "Sponsor": "SKYHUBLINK SYSTEM",
+                "Country": "United States"
+            }
+        },
+        {
             "M17-SPA": {
                 "URL": "https://hblinkspain.duckdns.org/mrefd/",
                 "IPV4": "85.255.8.71",
