@@ -15,7 +15,7 @@ title_align = "center"
 - [https://github.com/M17-Project/TR-9_firmware](https://github.com/M17-Project/TR-9_firmware)
     - Firmware for the TR-9 M17 radio (SP5WWP)
 - [https://github.com/M17-Project/TR-9](https://github.com/M17-Project/TR-9)
-    - Hardware for the TR-9 M17 radio (SO3ALG, DB9MAT, SP5WWP, tkuester@github - don't know his call)
+    - Hardware for the TR-9 M17 radio (SO3ALG, DB9MAT, SP5WWP, KB3VOZ)
 - [https://github.com/M17-Project/M17_RF_streamgen](https://github.com/M17-Project/M17_RF_streamgen)
     - Codec2 -> M17 framer, useful for testing
 - [https://github.com/M17-Project/M17_UDP](https://github.com/M17-Project/M17_UDP)
@@ -58,21 +58,20 @@ title_align = "center"
 - [https://github.com/tarxvftech/m17_echolink_bridge](https://github.com/tarxvftech/m17_echolink_bridge)
     - M17 IP Packets sent to m17tester.tarxvf.tech:17010 get bridged to W2FBI-L on echolink
         - This repo has the dockerfile and everything
-        
 
 #### Related:
 - [https://rflabs.tarxvf.tech/](https://rflabs.tarxvf.tech/)
     - SP5WWP and I have listed ourselves as willing to help others use RF test equipment
 
 ### AD8DP
-- DUDE-Star
+- DUDE-Star Linux and Windows Multi-Mode DV Client
     - [https://github.com/nostar/dudestar](https://github.com/nostar/dudestar)
-- DROID-Star
+- DROID-Star Android Multi-Mode DV Client
     - [https://play.google.com/store/apps/details?id=org.dudetronics.droidstar&hl=en_US&gl=US](https://play.google.com/store/apps/details?id=org.dudetronics.droidstar&hl=en_US&gl=US)
 - [https://github.com/nostar/MMDVM_CM](https://github.com/nostar/MMDVM_CM)
     - includes experimental DMR2M17 and M172DMR cross mode conversions
 
-### WX90
+### WX9O
 - [https://github.com/mobilinkd/m17-demodulator](https://github.com/mobilinkd/m17-demodulator)
     - M17 RF modulator and Demodulator in Jupyter Notebook
 - [https://github.com/mobilinkd/m17-gnuradio](https://github.com/mobilinkd/m17-gnuradio)
