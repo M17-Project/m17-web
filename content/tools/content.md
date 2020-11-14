@@ -6,7 +6,5 @@ weight = 1
 #background = ""
 
 title = "M17 Tools"
-subtitle = "Things to help you with M17!"
+subtitle = "Are you a developer? Check out [M17 Integrations](https://m17project.org/integrate)"
 +++
-
-A list of developer itegrations is available here: [M17 Integrations](https://m17project.org/integrate)
