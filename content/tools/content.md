@@ -8,3 +8,5 @@ weight = 1
 title = "M17 Tools"
 subtitle = "Things to help you with M17!"
 +++
+
+A list of developer itegrations is available here: [M17 Integrations](https://m17project.org/integrate)
