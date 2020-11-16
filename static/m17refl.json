@@ -261,6 +261,16 @@
             }
         },
         {
+            "M17-LDV": {
+                "URL": "https://ldv.m17.es/m17",
+                "IPV4": "80.211.99.134",
+                "IPV6": null,
+                "Port": 17000,
+                "Sponsor": "ARI Vinci",
+                "Country": "Italy"
+            }
+        },
+        {
             "M17-LOM": {
                 "URL": "https://m17-lom.myddns.me:24033/",
                 "IPV4": "82.60.24.178",
