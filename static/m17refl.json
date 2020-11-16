@@ -223,7 +223,7 @@
         {
             "M17-JPN": {
                 "URL": "https://m17.f5.si/",
-                "IPV4": "111.64.12.46",
+                "IPV4": "111.64.9.8",
                 "IPV6": null,
                 "Port": 17000,
                 "Sponsor": "Kanazawa VoIP Reflector Club",
