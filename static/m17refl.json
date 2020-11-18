@@ -81,6 +81,16 @@
             }
         },
         {
+            "M17-BRA": {
+                "URL": "https://m17bra.ddns.net/m17",
+                "IPV4": "187.108.0.156",
+                "IPV6": null,
+                "Port": 17000,
+                "Sponsor": "Daniel PU5KOD",
+                "Country": "Brazil"
+            }
+        },
+        {
             "M17-BRO": {
                 "URL": "https://m17-bro.dudetronics.com/",
                 "IPV4": "68.37.44.22",
@@ -223,7 +233,7 @@
         {
             "M17-JPN": {
                 "URL": "https://m17.f5.si/",
-                "IPV4": "111.64.9.8",
+                "IPV4": "111.64.9.80",
                 "IPV6": null,
                 "Port": 17000,
                 "Sponsor": "Kanazawa VoIP Reflector Club",
@@ -368,6 +378,16 @@
                 "Port": 17000,
                 "Sponsor": "HS5TQA",
                 "Country": "Thailand"
+            }
+        },
+        {
+            "M17-TKO": {
+                "URL": "https://ah-huh.net/m17/",
+                "IPV4": "52.192.129.174",
+                "IPV6": null,
+                "Port": 17000,
+                "Sponsor": "ah-huh.net",
+                "Country": "Japan"
             }
         },
         {
