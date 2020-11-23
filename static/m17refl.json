@@ -61,6 +61,16 @@
             }
         },
         {
+            "M17-ASL": {
+                "URL": "http://m17-allstarlink.n3tw0rk.it/",
+                "IPV4": "199.247.27.81",
+                "IPV6": null,
+                "Port": 17000,
+                "Sponsor": "Allstar-N3tW0rK",
+                "Country": "Italy"
+            }
+        },
+        {
             "M17-AUT": {
                 "URL": "https://m17-aut.xreflector.net/",
                 "IPV4": "195.25.215.5",
@@ -428,6 +438,16 @@
                 "Port": 17000,
                 "Sponsor": "IT Zonanove",
                 "Country": "Italy"
+            }
+        },
+        {
+            "M17-ZS0": {
+                "URL": "https://m1701.hamnet.org.za/",
+                "IPV4": "136.243.215.221",
+                "IPV6": null,
+                "Port": 17000,
+                "Sponsor": "ZS6LMG",
+                "Country": "South Africa"
             }
         }
     ]
