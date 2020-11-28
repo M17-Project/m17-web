@@ -321,6 +321,16 @@
             }
         },
         {
+            "M17-PHP": {
+                "URL": "https://dx8wmg-m17.ddns.net/",
+                "IPV4": "35.232.22.153",
+                "IPV6": null,
+                "Port": 17000,
+                "Sponsor": "DX8WMG",
+                "Country": "Philippines"
+            }
+        },
+        {
             "M17-PLG": {
                 "URL": "https://xrf245.pennlinkgroup.com/mrefd/",
                 "IPV4": "54.85.206.3",
@@ -355,7 +365,7 @@
                 "URL": "https://m17sal.m17.es/",
                 "IPV4": "31.14.139.112",
                 "IPV6": null,
-                "Port": 17000,
+                "Port": 1000,
                 "Sponsor": "URE Salamanca",
                 "Country": "Spain"
             }
