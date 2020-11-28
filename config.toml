@@ -107,7 +107,7 @@ lastmod = ["lastmod", ":git", "date"]
 
 [[menu.main]]
   url = "https://reflectors.m17.link"
-  name = (Alpha)
+  name = "(Alpha)"
   weight = 81
 
 [[menu.footer]]
