@@ -1,6 +1,16 @@
 {
     "m17refl": [
         {
+            "M17-020": {
+                "URL": "https://m17-020.k2ie.net/",
+                "IPV4": "66.175.215.217",
+                "IPV6": null,
+                "Port": 17000,
+                "Sponsor": "K2IE",
+                "Country": "United States"
+            }
+        },
+        {
             "M17-033": {
                 "URL": "https://m17-033.dyndns.org/",
                 "IPV4": "46.226.178.84",
@@ -51,6 +61,26 @@
             }
         },
         {
+            "M17-327": {
+                "URL": "https://m17-327.from-ak.com/",
+                "IPV4": "137.220.39.14",
+                "IPV6": null,
+                "Port": 17000,
+                "Sponsor": "W9ITU",
+                "Country": "United States"
+            }
+        },
+        {
+            "M17-540": {
+                "URL": "https://pg540.ddns.net",
+                "IPV4": "2.10.123.238",
+                "IPV6": null,
+                "Port": 17000,
+                "Sponsor": "F4VSJ",
+                "Country": "France"
+            }
+        },
+        {
             "M17-ARG": {
                 "URL": "https://m17arg.ddns.net",
                 "IPV4": "152.170.70.57",
@@ -62,7 +92,7 @@
         },
         {
             "M17-ASL": {
-                "URL": "http://m17-allstarlink.n3tw0rk.it/",
+                "URL": "https://n3tw0rk.it/m17",
                 "IPV4": "199.247.27.81",
                 "IPV6": null,
                 "Port": 17000,
@@ -92,7 +122,7 @@
         },
         {
             "M17-BRA": {
-                "URL": "https://m17bra.ddns.net/m17",
+                "URL": "https://dvbr.net/m17",
                 "IPV4": "187.108.0.156",
                 "IPV6": null,
                 "Port": 17000,
@@ -111,12 +141,22 @@
             }
         },
         {
-            "M17-CAD": {
+            "M17-CAS": {
                 "URL": "https://castellar.m17.es/m17/",
                 "IPV4": "80.211.226.37",
                 "IPV6": null,
                 "Port": 17000,
                 "Sponsor": "RC Castellar",
+                "Country": "Spain"
+            }
+        },
+        {
+            "M17-CAT": {
+                "URL": "https://m17catalonia.ddns.net/",
+                "IPV4": "172.104.140.230",
+                "IPV6": null,
+                "Port": 17000,
+                "Sponsor": "digigrup.org",
                 "Country": "Spain"
             }
         },
@@ -192,7 +232,7 @@
         },
         {
             "M17-ESP": {
-                "URL": "https://m17spa.xreflector.es/",
+                "URL": "https://dcs018.xreflector.net/m17/",
                 "IPV4": "82.223.20.103",
                 "IPV6": null,
                 "Port": 17000,
@@ -243,7 +283,7 @@
         {
             "M17-JPN": {
                 "URL": "https://m17.f5.si/",
-                "IPV4": "111.64.9.80",
+                "IPV4": "61.210.77.155",
                 "IPV6": null,
                 "Port": 17000,
                 "Sponsor": "Kanazawa VoIP Reflector Club",
