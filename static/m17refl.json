@@ -111,6 +111,16 @@
             }
         },
         {
+            "M17-AUS": {
+                "URL": "https://m17aus.drgnz.com/",
+                "IPV4": "45.63.29.219",
+                "IPV6": null,
+                "Port": 17000,
+                "Sponsor": "VK4AAF",
+                "Country": "Australia"
+            }
+        },
+        {
             "M17-BEL": {
                 "URL": "https://on0lg.no-ip.org/m17bel/",
                 "IPV4": "51.68.226.67",
@@ -261,6 +271,16 @@
             }
         },
         {
+            "M17-HNC": {
+                "URL": "https://certspain.ddns.net/",
+                "IPV4": "77.228.254.213",
+                "IPV6": null,
+                "Port": 17000,
+                "Sponsor": "EA1HNC - CERT SPAIN",
+                "Country": "Spain"
+            }
+        },
+        {
             "M17-ITA": {
                 "URL": "https://m17ita.hblink.it/",
                 "IPV4": "80.211.190.216",
@@ -358,6 +378,16 @@
                 "Port": 17000,
                 "Sponsor": "LA2K",
                 "Country": "Norway"
+            }
+        },
+        {
+            "M17-NZL": {
+                "URL": "https://m17nzl.drgnz.com/",
+                "IPV4": "149.28.165.127",
+                "IPV6": null,
+                "Port": 17000,
+                "Sponsor": "VK4AAF",
+                "Country": "New Zealand"
             }
         },
         {
