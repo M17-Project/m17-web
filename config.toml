@@ -101,13 +101,13 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 70
 
 [[menu.main]]
-  url = "/reflector"
+  url = "https://reflectors.m17.link"
   name = "Reflectors"
   weight = 80
 
 [[menu.main]]
-  url = "https://reflectors.m17.link"
-  name = "(Beta)"
+  url = "/reflector"
+  name = "(Old)"
   weight = 81
 
 [[menu.footer]]
