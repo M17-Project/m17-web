@@ -1,6 +1,6 @@
 +++
 title = "KC1AWV Steve"
-weight = 35
+weight = 33
 date = "2017-10-17"
 
 position = "Systems Administrator"
