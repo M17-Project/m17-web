@@ -1,9 +1,9 @@
 +++
 title = "KC1AWV Steve"
-weight = 33
+weight = 31
 date = "2017-10-17"
 
-position = "Systems Administrator"
+position = "Systems Administrator / Web Development"
 lives_in = "[United States](https://www.google.com/maps/place/United+States/)"
 scope = [
 ]

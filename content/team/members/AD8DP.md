@@ -1,6 +1,6 @@
 +++
 title = "AD8DP Doug"
-weight = 36
+weight = 34
 date = "2020-10-17"
 
 position = "Software Development - DUDEStar / DroidStar"

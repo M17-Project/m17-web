@@ -1,6 +1,6 @@
 +++
 title = "KM6VMZ Elms"
-weight = 32
+weight = 36
 date = "2017-10-17"
 
 position = "Software Development"

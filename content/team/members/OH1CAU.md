@@ -1,6 +1,6 @@
 +++
 title = "OH1CAU Juhani"
-weight = 31
+weight = 35
 date = "2017-10-17"
 
 position = "Technical Writer"
