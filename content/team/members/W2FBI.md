@@ -1,6 +1,6 @@
 +++
 title = "W2FBI Mike"
-weight = 37
+weight = 32
 date = "2020-08-01"
 
 position = "Software Prototyping/Development"
