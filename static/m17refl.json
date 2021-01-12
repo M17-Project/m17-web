@@ -441,6 +441,16 @@
             }
         },
         {
+            "M17-RTX": {
+                "URL": "https://m17.openrtx.org",
+                "IPV4": "51.15.47.11",
+                "IPV6": null,
+                "Port": 17000,
+                "Sponsor": "OpenRTX",
+                "Country": "Italy"
+            }
+        },
+        {
             "M17-SAL": {
                 "URL": "https://m17sal.m17.es/",
                 "IPV4": "31.14.139.112",
