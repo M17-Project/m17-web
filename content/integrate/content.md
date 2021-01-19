@@ -64,9 +64,9 @@ title_align = "center"
     - SP5WWP and I have listed ourselves as willing to help others use RF test equipment
 
 ### AD8DP
-- DUDE-Star Linux and Windows Multi-Mode DV Client
+- DUDE-Star Linux, Windows, and Mac Multi-Mode DV Client
     - [https://github.com/nostar/dudestar](https://github.com/nostar/dudestar)
-- DROID-Star Android Multi-Mode DV Client
+- DROID-Star Android Multi-Mode DV Client (iOS in development!)
     - [https://play.google.com/store/apps/details?id=org.dudetronics.droidstar&hl=en_US&gl=US](https://play.google.com/store/apps/details?id=org.dudetronics.droidstar&hl=en_US&gl=US)
 - [https://github.com/nostar/MMDVM_CM](https://github.com/nostar/MMDVM_CM)
     - includes experimental DMR2M17 and M172DMR cross mode conversions
@@ -76,3 +76,5 @@ title_align = "center"
     - M17 RF modulator and Demodulator in Jupyter Notebook
 - [https://github.com/mobilinkd/m17-gnuradio](https://github.com/mobilinkd/m17-gnuradio)
     - M17 transmitter in GNURadio
+- [http://www.mobilinkd.com/2019/06/24/nucleotnc/](http://www.mobilinkd.com/2019/06/24/nucleotnc/)
+    - M17 TNC implementation for NucleoTNC
