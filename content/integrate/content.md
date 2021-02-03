@@ -78,3 +78,8 @@ title_align = "center"
     - M17 transmitter in GNURadio
 - [http://www.mobilinkd.com/2019/06/24/nucleotnc/](http://www.mobilinkd.com/2019/06/24/nucleotnc/)
     - M17 TNC implementation for NucleoTNC
+
+### DD5JFK
+- [https://www.openwebrx.de/](https://www.openwebrx.de/)
+    - OpenWebRX online SDR streaming software - M17 support being tested
+        - [https://github.com/jketterl/openwebrx](OpenWebRX Source Code)

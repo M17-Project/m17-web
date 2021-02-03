@@ -23,7 +23,7 @@ title = "Donate to the M17 Project"
 |Chakphanu K.| Walter H. | | | |
 |Vitaliy S.| Michele M. | | | |
 |Keith A.| Frank H. | | | |
-|Randy B.| | | | |
-|Richard W.| | | | |
+|Randy B.| Alexander J. | | | |
+|Richard W.| John N. | | | |
 |Craig P.| | | | |
 |Jeremy C.| | | | |
