@@ -23,6 +23,11 @@ subtitle = "Bleeding edge Ham Radio!"
   color = "primary" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
+  text = "Tutorials"
+  url = "/tutorials"
+  color = "primary"
+
+[[buttons]]
   text = "Tools"
   url = "/tools"
   color = "primary"

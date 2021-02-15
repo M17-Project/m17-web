@@ -3,7 +3,7 @@ fragment = "list"
 weight = 120
 
 title = "M17 Project Tutorials"
-subtitle = "Displays pages from tutorials section"
+subtitle = "Tutorials on how to have fun using M17!"
 #title_align = "left" # Default is center, can be left, right or center
 
 background = "light"
