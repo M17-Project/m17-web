@@ -1,14 +1,25 @@
 +++
 fragment = "content"
-#disabled = true
-date = "2019-10-05"
 weight = 10
 #background = ""
+categories = ["Tutorial", "Receiver", "M17"]
 
 title = "Build your own M17 Receiver"
 #subtitle = ""
+title_align = "left"
+
+display_date = true
+date = "2021-02-15"
+
+summary = """
+Building your own M17 receiver using a Raspberry Pi 3 or 4 is simple,
+and fun to do!
+"""
+
+[sidebar]
+  align = "right"
+
 +++
----
 
 # Building your own M17 receiver
 
@@ -87,4 +98,3 @@ Open it up using GNURadio Companion, double click on "File Source" block on the 
 4. Press the ">" button in the menu ("Execute the flow graph").
 
 An empty window should pop up. Your PlutoSDR should transmit M17 voice frames until you close that window.
----
