@@ -1,4 +1,4 @@
 +++
-title = "M17 Project Tutorials"
+title = "Tutorials"
 date = "2017-10-05"
 +++
