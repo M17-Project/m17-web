@@ -5,8 +5,8 @@ date = "2019-10-05"
 weight = 100
 #background = ""
 
-title = "About the M17 Project"
-subtitle = "No, it's not a gun."
+title = "Build your own M17 Receiver"
+#subtitle = ""
 +++
 ---
 Placeholder for receiver content
