@@ -38,23 +38,23 @@ You will need:
 
 Install Dave Rowe's codec2
 
-`git clone https://github.com/drowe67/codec2`
-`cd codec2-master`
-`mkdir build && cd build`
-`cmake ..`
-`make`
-`sudo make install`
-`cd ../..`
+    git clone https://github.com/drowe67/codec2
+    cd codec2-master
+    mkdir build && cd build
+    cmake ..
+    make
+    sudo make install
+    cd ../..
 
 Install m17-cxx-demod
 
-`git clone https://github.com/mobilinkd/m17-cxx-demod`
-`cd m17-cxx-demod-master`
-`mkdir build && cd build`
-`cmake ..`
-`make`
-`sudo make install`
-`cd ../..`
+    git clone https://github.com/mobilinkd/m17-cxx-demod
+    cd m17-cxx-demod-master
+    mkdir build && cd build
+    cmake ..
+    make
+    sudo make install
+    cd ../..6
 
 3. Now that we have all the software installed and ready, try the following command:
 
@@ -77,7 +77,7 @@ That's it. A list of all received streams should appear in the terminal window. 
 
 ***
 
-# Setting up your M17 "beacon" transmitter (Windows + PlutoSDR method)
+## Setting up your M17 "beacon" transmitter (Windows + PlutoSDR method)
 
 You will need:
 - Windows 7 or 10
@@ -93,6 +93,7 @@ You will need:
 
 3. Download m17-gr3.7.grc:
 ... no link yet
+
 Open it up using GNURadio Companion, double click on "File Source" block on the left. Point it to the .bin file with your record. Double click on the "Variable, Id: frequency" block to set the frequency. 
 
 4. Press the ">" button in the menu ("Execute the flow graph").
