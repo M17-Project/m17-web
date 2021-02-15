@@ -19,6 +19,9 @@ and fun to do!
 [sidebar]
   align = "right"
 
+[asset]
+  image = "image.jpg"
+
 +++
 
 # Building your own M17 receiver
@@ -54,7 +57,7 @@ Install m17-cxx-demod
     cmake ..
     make
     sudo make install
-    cd ../..6
+    cd ../..
 
 3. Now that we have all the software installed and ready, try the following command:
 
