@@ -156,7 +156,7 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 40
   name = "discord"
   pre = "fab fa-discord"
-  url = "https://discord.gg/kFSJFkZ8JD"
+  url = "https://discord.gg/G8zGphypf6"
 
 [[menu.footer_social]]
   weight = 50
