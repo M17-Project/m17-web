@@ -11,6 +11,9 @@ googleAnalytics = ""
 
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
+# Enable emoji support
+enableEmoji = true
+
 [outputs]
   home = ["HTML", "JSON"]
 
