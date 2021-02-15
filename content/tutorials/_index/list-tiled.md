@@ -8,7 +8,7 @@ subtitle = "Displays pages from tutorials/content section"
 
 background = "secondary"
 count = 5 # Default value is 10
-section = "tutorials/content" # Default value is current section
+#section = "tutorials/content" # Default value is current section
 #summary = false # Default value is true
 #images = false # Default value is true
 #read_more = true # Default value is empty (empty: show when content is truncated, false to never show, true to always show)
