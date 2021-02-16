@@ -37,12 +37,12 @@ You will need:
 
 `sudo apt update && sudo apt upgrade` :warning:	- this may take up to an hour to complete
 
-`sudo apt install build-essential cmake git libusb rtl-sdr boost-devel aplay`
+`sudo apt install build-essential cmake git libusb-1.0-0-dev rtl-sdr libboost-all-dev alsa-utils`
 
 Install Dave Rowe's codec2
 
     git clone https://github.com/drowe67/codec2
-    cd codec2-master
+    cd codec2
     mkdir build && cd build
     cmake ..
     make
@@ -52,7 +52,7 @@ Install Dave Rowe's codec2
 Install m17-cxx-demod
 
     git clone https://github.com/mobilinkd/m17-cxx-demod
-    cd m17-cxx-demod-master
+    cd m17-cxx-demod
     mkdir build && cd build
     cmake ..
     make
