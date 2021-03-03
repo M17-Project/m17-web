@@ -4,13 +4,13 @@ fragment = "hero"
 date = "2016-09-07"
 weight = 10
 background = "light" # can influence the text color
-particles = true
+particles = false
 
 title = "M17 Project"
 subtitle = "Bleeding edge Ham Radio!"
 
 [header]
-  image = "GM300.jpeg"
+  image = "GM300.jpg"
 
 [asset]
   image = "logo.svg"
