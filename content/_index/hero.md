@@ -3,7 +3,7 @@ fragment = "hero"
 #disabled = true
 date = "2016-09-07"
 weight = 10
-background = "dark" # can influence the text color
+background = "light" # can influence the text color
 particles = true
 
 title = "M17 Project"
