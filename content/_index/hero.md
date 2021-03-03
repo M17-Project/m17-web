@@ -10,7 +10,7 @@ title = "M17 Project"
 #subtitle = "Bleeding edge Ham Radio!"
 
 [header]
-  image = "GM300.jpg"
+  image = "GM300.jpeg"
 
 [asset]
   image = "logo.svg"
