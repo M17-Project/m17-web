@@ -2,7 +2,7 @@
 fragment = "items"
 #disabled = false
 date = "2017-10-04"
-weight = 10
+weight = 20
 background = "light"
 
 title = "Keep in touch with the M17 Project!"
