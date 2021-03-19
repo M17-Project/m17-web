@@ -25,6 +25,10 @@ title_align = "center"
 - [https://github.com/M17-Project/M17_Repeater](https://github.com/M17-Project/M17_Repeater)
     - The M17 repeater - F6ITU is currently updating it to TR-9 v2 design.
 
+### OpenRTX
+- [OpenRTX](https://openrtx.org)
+    - Firmware for existing DMR radios, such as the TYT MD380, supporting the M17 Protocol!
+
 ### N7TAE
 - [https://github.com/n7tae/mrefd](https://github.com/n7tae/mrefd)
     - The first M17 reflector software

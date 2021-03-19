@@ -6,7 +6,7 @@ weight = 10
 background = "light"
 align = "center"
 
-title = ""
+title = "The M17 Project Net"
 #subtitle = ""
 +++
 
