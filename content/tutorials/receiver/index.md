@@ -95,7 +95,7 @@ You will need:
 [https://github.com/tfcollins/GNURadio_Windows_Build_Scripts/releases/download/1.5.0/gnuradio_3.7.11_iiosupport_win64.msi](https://github.com/tfcollins/GNURadio_Windows_Build_Scripts/releases/download/1.5.0/gnuradio_3.7.11_iiosupport_win64.msi)
 
 3. Download m17-gr3.7.grc:
-... no link yet
+[https://gist.github.com/sp5wwp/b465343761c78777b00b4d27f33f6afd](https://gist.github.com/sp5wwp/b465343761c78777b00b4d27f33f6afd)
 
 Open it up using GNURadio Companion, double click on "File Source" block on the left. Point it to the .bin file with your record. Double click on the "Variable, Id: frequency" block to set the frequency. 
 
