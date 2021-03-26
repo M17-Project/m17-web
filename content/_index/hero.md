@@ -25,7 +25,7 @@ title = "M17 Project"
 [[buttons]]
   text = "Wiki"
   url = "https://wiki.m17.link"
-  color = "danger" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
+  color = "primary" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
   text = "Donate"
@@ -40,5 +40,5 @@ title = "M17 Project"
 [[buttons]]
   text = "Join"
   url = "/get-involved"
-  color = "success"
+  color = "primary"
 +++
