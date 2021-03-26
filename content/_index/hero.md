@@ -23,14 +23,9 @@ title = "M17 Project"
   color = "primary" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
-  text = "Tutorials"
-  url = "/tutorials"
-  color = "primary"
-
-[[buttons]]
-  text = "Tools"
-  url = "/tools"
-  color = "primary"
+  text = "Wiki"
+  url = "https://wiki.m17.link"
+  color = "primary" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
   text = "Donate"
@@ -45,5 +40,5 @@ title = "M17 Project"
 [[buttons]]
   text = "Join"
   url = "/get-involved"
-  color = "success"
+  color = "primary"
 +++
