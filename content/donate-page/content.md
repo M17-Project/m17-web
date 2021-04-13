@@ -25,5 +25,5 @@ title = "Donate to the M17 Project"
 |Keith A.| Frank H. | | | |
 |Randy B.| Alexander J. | | | |
 |Richard W.| John N. | | | |
-|Craig P.| | | | |
+|Craig P.| Jeffrey K. | | | |
 |Jeremy C.| | | | |

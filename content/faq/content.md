@@ -15,11 +15,10 @@ title = "Frequently Asked Questions"
   content = """
 [M17 Github](https://github.com/M17-Project)
 
-[TR-9 Github](https://github.com/M17-Project/TR-9)
+[OpenRTX](https://openrtx.org/#/)
 
-[TR-9 Mainboard Bill of Materials](https://htmlpreview.github.io/?https://github.com/M17-Project/TR-9/blob/master/kicad/Mainboard/BOM/ibom.html)
+[M17 Wiki](https://wiki.m17.link)
 
-[TR-9 HMI Bill of Materials](https://htmlpreview.github.io/?https://github.com/M17-Project/TR-9/blob/master/kicad/HMI/BOM/ibom.html)
 """
 +++
 
