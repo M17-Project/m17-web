@@ -28,6 +28,11 @@ title = "M17 Project"
   color = "primary" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
+  text = "Tools"
+  url = "/tools"
+  color = "primary" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
+
+[[buttons]]
   text = "Donate"
   url = "/donate-page"
   color = "danger"
