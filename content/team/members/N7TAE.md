@@ -1,6 +1,6 @@
 +++
 title = "N7TAE Tom"
-weight = 33
+weight = 34
 date = "2020-10-17"
 
 position = "Software Development/Protocol Networking"
