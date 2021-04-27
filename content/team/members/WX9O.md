@@ -1,6 +1,6 @@
 +++
 title = "WX9O Rob"
-weight = 35
+weight = 36
 date = "2020-10-17"
 
 position = "Software/Hardware Development"
