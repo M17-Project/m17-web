@@ -1,15 +1,16 @@
 +++
-title = "N2XDD Ed"
+title = "N7TAE Tom"
 weight = 34
 date = "2020-10-17"
 
-position = "Community Management/Primary NCS"
+position = "Software Development/Protocol Networking"
 lives_in = "[United States](https://www.google.com/maps/place/United+States/)"
 scope = [
 ]
 
 [asset]
-  image = "team/N2XDD.png"
+  image = "team/N7TAE.jpg"
 +++
 
-Old school analog radio enthusiast living in a digital radio world. Recently retired and rarely found without a large cup of coffee in hand. Radio Amateur since 1993.
+Retired Physical Chemist. Now a radio amateur and open source software guy
+interested in digital comms.
