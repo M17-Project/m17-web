@@ -9,7 +9,7 @@ scope = [
 ]
 
 [asset]
-  image = "team/N7TAE.jpg"
+  image = "team/N7TAE.png"
 +++
 
 Retired Physical Chemist. Now a radio amateur and open source software guy

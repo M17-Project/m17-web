@@ -9,7 +9,7 @@ scope = [
 ]
 
 [asset]
-  image = "team/N2XDD.png"
+  image = "team/N2XDD.jpg"
 +++
 
 Old school analog radio enthusiast living in a digital radio world. Recently retired and rarely found without a large cup of coffee in hand. Radio Amateur since 1993.
