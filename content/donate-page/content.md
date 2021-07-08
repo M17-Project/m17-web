@@ -26,4 +26,4 @@ title = "Donate to the M17 Project"
 |Randy B.| Alexander J. | | | |
 |Richard W.| John N. | | | |
 |Craig P.| Jeffrey K. | | | |
-|Jeremy C.| | | | |
+|Jeremy C.| Paweł F. | | | |
