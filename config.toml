@@ -161,8 +161,9 @@ lastmod = ["lastmod", ":git", "date"]
   pre = "fab fa-discord"
   url = "https://discord.gg/G8zGphypf6"
 
+
 [[menu.footer_social]]
-  weight = 50
-  name = "twitter"
-  pre = "fab fa-twitter"
-  url = "https://twitter.com/m17_project"
+  weight = 60
+  name = "youtube"
+  pre = "fab fa-youtube"
+  url = "https://www.youtube.com/channel/UC9oiqfMpZtgIRnP5syNiLlg"
