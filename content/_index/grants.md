@@ -6,6 +6,6 @@ weight = 40
 background = "light"
 align = "center"
 
-title = "Grants Provided By:"
+title = "Grants Provided By"
 #subtitle = ""
 +++

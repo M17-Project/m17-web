@@ -6,6 +6,6 @@ weight = 50
 background = "light"
 align = "center"
 
-title = "M17 Project Sponsors"
+title = "M17 Project Fiscal Sponsors"
 #subtitle = ""
 +++
