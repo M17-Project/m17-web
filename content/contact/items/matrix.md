@@ -4,10 +4,10 @@ weight = 20
 
 [asset]
   image = "matrix.svg"
-  url = "https://app.element.io/#/room/#m17:m17.link"
+  url = "https://matrix.to/#/#m17-project:matrix.org"
 +++
 
-You can also join the M17 team on Matrix at #m17:m17.link by using the Element client on your favorite device.
+You can also join the M17 team on Matrix Spaces at #m17-project:matrix.org by using your favorite Matrix client.
 
 The Matrix chat room is linked to IRC and Discord.
 
