@@ -6,7 +6,7 @@ weight = 11
 background = "light"
 align = "left"
 
-title = "DUDE-Star Client"
+title = "DroidStar"
 #subtitle = ""
 
 # Subtitle pre and post item
@@ -14,17 +14,16 @@ title = "DUDE-Star Client"
 #post = ""
 
 [[buttons]]
-  text = "DUDE-Star"
-  url = "https://github.com/nostar/dudestar"
+  text = "DroidStar"
+  url = "https://github.com/nostar/droidstar"
   color = "success"
 +++
 
-The DUDE-Star client is a cross-platform client capable of many digital voice modes, M17 included!
+The DroidStar client is a cross-platform client capable of many digital voice modes, M17 included!
 
 Requirements:
-* Linux, Mac or Windows computer
-* A headset with microphone for best audio quality
+* Linux, Mac or Windows computer to compile source code
+* For use on a PC, a headset with microphone for best audio quality
 * A few libraries and build tools
-* For Windows, check the [releases](https://github.com/nostar/dudestar/releases) page for a binary
 
-All information relevant to the building and running of the DUDE-Star client is available in the README
+All information relevant to the building and running of the DroidStar client is available in the README
