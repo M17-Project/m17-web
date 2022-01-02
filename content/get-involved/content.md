@@ -19,7 +19,7 @@ title = "Get Involved!"
 
 [M17 IRC Chat](/irc/)
 
-[M17 Matrix Chat](https://matrix.to/#/!raLCsLGKgbbYBxzUtL:m17.link?via=m17.link)
+[M17 Matrix Chat](https://matrix.to/#/#m17-project:matrix.org)
 """
 +++
 
